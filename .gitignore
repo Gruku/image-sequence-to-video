@@ -36,6 +36,12 @@ env/
 # Gumroad (private)
 gumroad/
 
+# Development files
+docs/
+tests/
+requirements-dev.txt
+pyproject.toml
+
 # OS files
 .DS_Store
 Thumbs.db

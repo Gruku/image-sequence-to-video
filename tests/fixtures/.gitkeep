@@ -1,2 +1,0 @@
-# This file ensures the fixtures directory is tracked by git
-# Actual test image files are generated dynamically by pytest fixtures
