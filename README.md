@@ -1,10 +1,12 @@
 # Image Sequence to Video - Blender Addon
 
+![Image Sequence to Video Banner](screenshots/Gumroad%20Banner.png)
+
 An addon to speed up the rendering workflow where image sequences of rendered frames can be converted to video within the same Blender file you're working on, without any setup required.
 
 ![Blender](https://img.shields.io/badge/Blender-5.0%2B-orange)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue)
-![Version](https://img.shields.io/badge/Version-2.4-green)
+![Version](https://img.shields.io/badge/Version-1.0-green)
 
 ## What It Does
 
